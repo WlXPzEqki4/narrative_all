@@ -95,25 +95,37 @@ const Hero = () => {
           Narrative Analysis
         </h1>
         <p className="mt-4 text-lg text-gray-600 max-w-xl mx-auto">
-          Explore the most significant diplomatic and cultural venues, from historic sites to modern institutions.
+          Exploring a range of modern Narrative Analytic Techniques.
         </p>
         
         {/* Category chips */}
         <div className="mt-6 space-x-2">
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
-            Historical
+            Narrative
           </button>
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
-            Cultural
+            Topic
           </button>
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
-            Diplomatic
+            Themes
           </button>
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
-            Educational
+            Concept clusters
           </button>
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
-            Technological
+            Fingerprinting
+          </button>
+          <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
+            Ideologies
+          </button>
+          <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
+            Framing
+          </button>
+          <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
+            Sentiment
+          </button>
+          <button className="px-4 py-2 bg-gray-200 rounded-full text-sm text-gray-700 hover:bg-gray-300">
+            Stakeholders
           </button>
         </div>
       </div>
